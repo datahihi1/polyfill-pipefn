@@ -1,0 +1,10 @@
+{
+    "name": "datahihi1/polyfill-pipefn",
+    "description": "Polyfill for pipe function",
+    "autoload": {
+        "files": ["pipeFunction.php"]
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
